@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="facebook/yahoo app automation Suite">
+<listeners>
+    <listener class-name="TestUtil.ExtentReporterNg" />
+</listeners>
+
+<!--<test name="Login yahoo" parallel = "classes" thread-count="2">-->
+    <test name="Login yahoo" >
+    <parameter name="emailid" value="amal.chaudhary@yahoo.com" />
+    <parameter name = "password" value="Iphone#4567" />
+    <parameter name = "url" value="https://login.yahoo.com/" />
+    <parameter name= "browser" value="chrome" />
+    <classes>
+        <class name="Pages.yahooLogin" />
+        <methods>
+            <exclude name= "secondTest" /exclude>
+        </methods>
+<!--        <class name="Pages.loginFacebook" />-->
+    </classes>
+    </test> <!-- PracticeNew(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
+
