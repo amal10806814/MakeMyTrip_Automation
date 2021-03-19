@@ -23,6 +23,8 @@ public class CountOccurrencesOfEachCharacterInString {
                 hm.put(ch[i] , 1 );
             }
         }
+        
+        System.out.println(hm);
 
        Set<Character> entry =  hm.keySet();
        Collection<Integer> val=  hm.values();

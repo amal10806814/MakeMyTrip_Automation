@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [facebook/yahoo app automation Suite]">
+  <listeners>
+    <listener class-name="TestUtil.ExtentReporterNg"/>
+  </listeners>
+  <test thread-count="5" name="Login yahoo(failed)">
+    <parameter name="password" value="Iphone#4567"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="emailid" value="amal.chaudhary@yahoo.com"/>
+    <parameter name="url" value="https://login.yahoo.com/"/>
+    <classes>
+      <class name="Pages.yahooLogin">
+        <methods>
+          <include name="start"/>
+          <include name="loginTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Pages.yahooLogin -->
+    </classes>
+  </test> <!-- Login yahoo(failed) -->
+</suite> <!-- Failed suite [facebook/yahoo app automation Suite] -->

@@ -1,175 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e93c982e-8293-4e6e-bd53-de343bd03a76" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <list default="true" id="e93c982e-8293-4e6e-bd53-de343bd03a76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/AbstractChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/AbstractParent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ConstructorBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ConstructorNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ConstructorOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ConstructorOverloadingPart2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ContructorOverloadingNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/EncapsulationPart2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/EncapsulationPartOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/FirstAutomationScript.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/FlightSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/LoginClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/MultipleStaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ParameterizedCons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ParamterizedConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/PrivateParameterizedConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/RemoveSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/StaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/StaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/Stringprog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/Super_Inheritance1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/Super_Inheritance2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/Ternaryoperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PracticeProject/VariableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PracticeProject/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PracticeProject/Verifymmtlogin.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1463730763">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="4" />
-          <entry key="java" value="7238" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="7238" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="35" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="35" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PracticeNew$properties.ic" NAME="properties Coverage Results" MODIFIED="1555521801506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Utilities.*</FILTER>
+    </SUITE>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MMT_Automation/FirstAutomationScript.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ParameterizedCons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MMT_Automation/LoginClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PracticeProject/AppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MMT_TestCases/Verifymmtlogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/Super_Inheritance1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MMT_Automation/FlightSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/Super_Inheritance2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorOverloading.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -178,160 +59,40 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>D:\PracticeAutomation\src\main\java\MMT_Automation</dir>
-    </dirStrings>
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="D:/Automation_Gradle_Project/BizId/software-svc-crosscore-mapper-na-bizid" value="PREVIEW" />
-        <entry key="D:/Automation_Gradle_Project/Emailage/software-svc-crosscore-mapper-emailage" value="PREVIEW" />
-        <entry key="D:/Automation_Gradle_Project/MachineLearning/software-svc-crosscore-mapper-machine-learning" value="PREVIEW" />
-        <entry key="D:/Automation_Gradle_Project/WPPro/software-svc-crosscore-mapper-whitepagespro" value="PREVIEW" />
-        <entry key="D:/Automation_Gradle_Project/software-lib-crosscore-mapper-framework" value="PREVIEW" />
-        <entry key="D:/Automation_Gradle_Project/software-svc-crosscore-mapper-mitek" value="PREVIEW" />
-        <entry key="D:/Demo/software-svc-crosscore-mapper-demo" value="PREVIEW" />
-        <entry key="D:/Gradle_Automation_Project/software-svc-crosscore-mapper-mitek" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/VariableExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/Ternaryoperator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/RemoveSpace.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/Stringprog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorBasic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ParamterizedConstructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/PrivateParameterizedConstructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/MultipleStaticBlock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/StaticVariable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/StaticMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/AbstractChild.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/AbstractParent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/FirstAutomationScript.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/LoginClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/FlightSearch.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PracticeProject/Verifymmtlogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorNew.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ParameterizedCons.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorOverloading.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorOverloadingPart2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/EncapsulationPartOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/EncapsulationPart2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/Super_Inheritance1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/Spure_Inheritance2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PracticeProject/Super_Inheritance2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MMT_Automation/FirstAutomationScript.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MMT_TestCases/Verifymmtlogin.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\amal.chaudhry\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="PracticeNew" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="28" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="MMT_Automation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticeProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1RaoI86hexnN2xnz5Rh6enLFotz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549447611171" />
-    <property name="last_opened_file_path" value="D:/Automation_Gradle_Project/WPPro/software-svc-crosscore-mapper-whitepagespro" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558508677234" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Github_Folder/MakeMyTrip_Automation" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PracticeAutomation\src\main\java\Feature" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PracticeAutomation\src\main\java\TestUtil" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -345,13 +106,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Super_Inheritance2">
-    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProject.ConstructorOverloading" />
-      <module name="PracticeAutomation" />
+  <component name="RunManager" selected="Application.halfEbay">
+    <configuration name="StringOfSpaceSeparatedNoReturnHighestNLowsetNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.StringOfSpaceSeparatedNoReturnHighestNLowsetNumber" />
+      <module name="PracticeNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MMT_Automation.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContructorOverloadingNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProject.ContructorOverloadingNew" />
-      <module name="PracticeAutomation" />
+    <configuration name="halfEbay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pages.halfEbay" />
+      <module name="PracticeNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MMT_Automation.*" />
+          <option name="PATTERN" value="Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,59 +133,100 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncapsulationPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProject.EncapsulationPart2" />
-      <module name="PracticeAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MMT_Automation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="D:/PracticeAutomation/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeNew" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterizedCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProject.ParameterizedCons" />
-      <module name="PracticeAutomation" />
+    <configuration name="TestNG_Structure" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MMT_Automation.*" />
+          <option name="PATTERN" value="TestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TestNG" />
+      <option name="MAIN_CLASS_NAME" value="TestNG.TestNG_Structure" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Super_Inheritance2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProject.Super_Inheritance2" />
-      <module name="PracticeAutomation" />
+    <configuration name="TestNG_Structure.StringtoInteger" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MMT_Automation.*" />
+          <option name="PATTERN" value="TestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TestNG" />
+      <option name="MAIN_CLASS_NAME" value="TestNG.TestNG_Structure" />
+      <option name="METHOD_NAME" value="StringtoInteger" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yahooLogin" type="TestNG" nameIsGenerated="true">
+      <module name="PracticeNew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.yahooLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ParameterizedCons" />
-      <item itemvalue="Application.ConstructorOverloading" />
-      <item itemvalue="Application.ContructorOverloadingNew" />
-      <item itemvalue="Application.EncapsulationPart2" />
-      <item itemvalue="Application.Super_Inheritance2" />
+      <item itemvalue="Application.StringOfSpaceSeparatedNoReturnHighestNLowsetNumber" />
+      <item itemvalue="Application.halfEbay" />
+      <item itemvalue="TestNG.yahooLogin" />
+      <item itemvalue="TestNG.D:/PracticeAutomation/src/testng.xml" />
+      <item itemvalue="TestNG.TestNG_Structure" />
+      <item itemvalue="TestNG.TestNG_Structure.StringtoInteger" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Super_Inheritance2" />
-        <item itemvalue="Application.EncapsulationPart2" />
-        <item itemvalue="Application.ContructorOverloadingNew" />
-        <item itemvalue="Application.ConstructorOverloading" />
-        <item itemvalue="Application.ParameterizedCons" />
+        <item itemvalue="Application.halfEbay" />
+        <item itemvalue="TestNG.D:/PracticeAutomation/src/testng.xml" />
+        <item itemvalue="TestNG.TestNG_Structure" />
+        <item itemvalue="TestNG.TestNG_Structure.StringtoInteger" />
+        <item itemvalue="Application.StringOfSpaceSeparatedNoReturnHighestNLowsetNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -441,397 +243,268 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Verifymmtlogin - 2019.01.17 at 13h 38m 10s.xml">
-      <configuration name="Verifymmtlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.17 at 13h 44m 16s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.17 at 15h 21m 26s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.17 at 15h 23m 51s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.17 at 15h 28m 14s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.17 at 16h 00m 55s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.17 at 16h 01m 38s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.23 at 16h 12m 09s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.23 at 16h 41m 47s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Verifymmtlogin_verifyvalidlogin - 2019.01.23 at 17h 16m 15s.xml">
-      <configuration name="Verifymmtlogin.verifyvalidlogin" configurationId="TestNG" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2881997" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37806875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/ContructorOverloadingNew.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/ContructorOverloadingNew.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/ContructorOverloadingNew.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/ContructorOverloadingNew.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BaseClass/baseNew_one.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/FactorialNew.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/FactorialNew.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/PrimeNoCheck.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/PrimeNoCheck.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/palindrome.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/palindrome.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/palindromezTwo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/palindromezTwo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/starPatternOneReverse.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/duplicateArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/SecondLargestElementArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/seondLargestTwoMethod.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/starPatternFour.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/TwoArrayCompare.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SumitProblems/SeparateZeroArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SumitProblems/SeparateZeroPartTwo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/ReverseArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/RemoveDuplicate2.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/String/Anagram.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/duplicateString.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/palindrome.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/reverseString2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/reverseString3.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/LargestnSmallestinArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/primeNumber1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogicalPrograms/primeNumber1.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SumitProblems/RotateArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SumitProblems/linkedClass.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SumitProblems/splitStringTwo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SecondLargestNoInArrray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ShiftZeroUsingCounter.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SelectionSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/prime.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/PrimeNoPairsSumEqualToGivenNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/countOccurence.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/DuplicateArrayProgram.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseNoPreserveFirstElement.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/JavaPractice/ContructorOverloadingNew.java</url>
           <line>4</line>
-          <properties field="a" class="PracticeProject.ContructorOverloadingNew" />
+          <properties field="a" class="JavaPractice.ContructorOverloadingNew" />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/BaseClass/baseNew_one.java</url>
+          <line>22</line>
+          <properties class="BaseClass.baseNew_one" method="initialization">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseAddUntilPalindrome.java</url>
+          <line>4</line>
+          <properties class="JavaConceptOfTheDay.ReverseAddUntilPalindrome" method="reverseMethod">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/longSubStringWIthoutRepeating.java</url>
+          <line>6</line>
+          <properties class="JavaConceptOfTheDay.longSubStringWIthoutRepeating" method="longestSubString">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>obj.getvalue()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>obj.setvalue(11)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>new ContructorOverloadingNew(10)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/VariableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/Ternaryoperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/Stringprog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ParamterizedConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/PrivateParameterizedConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/MultipleStaticBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding>
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/StaticVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/RemoveSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/AbstractChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticeAutomation.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/AbstractParent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/StaticMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="66" lean-forward="true" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorOverloadingPart2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ContructorOverloadingNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/EncapsulationPartOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/EncapsulationPart2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ParameterizedCons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/ConstructorOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/Super_Inheritance1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/Super_Inheritance2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PracticeProject/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MMT_Automation/LoginClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PracticeProject/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MMT_TestCases/Verifymmtlogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MMT_Automation/FlightSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MMT_Automation/FirstAutomationScript.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="masterDetails">
     <states>
@@ -908,7 +581,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.beust:jcommander:1.27</last-edited>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,8 +1,5 @@
 package JavaConceptOfTheDay;
 
-import Collections.Arraylist;
-
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Anagram {
